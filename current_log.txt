@@ -1,0 +1,875 @@
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface The request sync root points to  1 "root" (:0) 
+Sun Jan 16 07:12:06 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:06 CST 2022 DATA AllPhotosBrowserFragment Initializing filter with default option: ALL_PHOTOS 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (Q) Experiment RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:06 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Got valid response for item  "root"  with  0 Duration:  192 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface tagsItems found :  0 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface locations found :  0 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing Metadata for syncRoot ResourceId "root" (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for syncRoot ResourceId "root" is written into db in 8 ms with 0 ms yield time. The network request takes 192 ms. There are 0 items in total and 0 items are skipped. There are  0  locations data in total.  The sync is against the parentSyncRoot: true (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface The app status. PowerSaveMode: false ForegroundMode: true (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Schedule propagation of special folder classification. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing propagate classification (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Queue is empty, there are no folders to propagate (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Skip unreferenced locations deletion due to less than a week (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Total time to sync (ms):  230 (:0) 
+Sun Jan 16 07:12:06 CST 2022 DATA com.microsoft.odsp.c0.c All items are deselected 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/GetChanges" " (:0) 
+Sun Jan 16 07:12:06 CST 2022 DATA com.microsoft.odsp.c0.c All items are deselected 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Found the drive  1  to insert the item (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Inserted new placeholder node for  1  with rowId  11 (:0) 
+Sun Jan 16 07:12:06 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "albums"  isRoot:  false (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Querying for 2022 - 1 - 16 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Can't refresh item as projection doesn't include minimum needed information (:0) 
+Sun Jan 16 07:12:06 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:06 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Sun Jan 16 07:12:06 CST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() popBackStack 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Sun Jan 16 07:12:06 CST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() popBackStack 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::setInternalTagsDirty Marked:  0  records dirty. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Sun Jan 16 07:12:06 CST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() popBackStack 
+Sun Jan 16 07:12:06 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Marked:  0  records dirty. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Issuing page request for GetItems.  resourceId:  "albums"  offset:  0 (:0) 
+Sun Jan 16 07:12:06 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:06 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::writeData starts. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  1 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  1  is written in  0 ms :  0  items  fetchFolderOnly:  true vaulttype: 0 (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::insertOrUpdateInternalTags  0  is written in. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::deleteOldInternalTagsSync Deleted:  0  old records. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::deleteDirtyInternalTags Deleted:  0  dirty records. (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface OnThisDayDataWriter::updateInternalTagsSync Updated:  1  records. (:0) 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:06 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:06 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:06 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/OnThisDay" " (:0) 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:06 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Drive Id (:0) 
+Sun Jan 16 07:12:06 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface can't find the drive with the id:  0 (:0) 
+Sun Jan 16 07:12:06 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:06 CST 2022 DATA OneDrivePrivacyDelegate (I) OnThisDay/BannerAvailability RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:06 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:06 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface tagsItems found :  0 (:0) 
+Sun Jan 16 07:12:07 CST 2022 W com.microsoft.onedrivecore.LogWriterInterface Api attribution requested with an empty API name (:0) 
+Sun Jan 16 07:12:07 CST 2022 W com.microsoft.onedrivecore.LogWriterInterface Coverage tracking was not done because no API name was specified (:0) 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  11 (:0) 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  11  is written in  6 ms :  0  items  fetchFolderOnly:  false vaulttype: 0 (:0) 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Deleted:  0  dirty view records (:0) 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/ODCGetItemsAlbums" " (:0) 
+Sun Jan 16 07:12:07 CST 2022 DATA CameraRollJob Camera roll job started. 
+Sun Jan 16 07:12:07 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Sun Jan 16 07:12:07 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338727521 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:07 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:07 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:07 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:07 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:07 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:07 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:12:07 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:07 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:12:07 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Querying for 2022 - 1 - 16 (:0) 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Can't refresh item as projection doesn't include minimum needed information (:0) 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:07 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:07 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:12:07 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:12:07 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:07 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:07 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:07 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:07 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:07 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:12:07 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:07 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:07 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:12:08 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:08 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Drive Id (:0) 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface can't find the drive with the id:  0 (:0) 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338727521 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338727521 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.151 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.044 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.751 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.063 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:12:08 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:12:08 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Querying for 2022 - 1 - 16 (:0) 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Can't refresh item as projection doesn't include minimum needed information (:0) 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:08 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{ec7b5ee VFED..CL. ......ID 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{203769e VFED..CL. ........ 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{17d108b VFED..CL. ......ID 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Querying for 2022 - 1 - 16 (:0) 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Can't refresh item as projection doesn't include minimum needed information (:0) 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:08 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:12:08 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:12:08 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:12:08 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:08 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Cache MISS for Drive by Drive Id (:0) 
+Sun Jan 16 07:12:08 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface can't find the drive with the id:  0 (:0) 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:08 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:12:08 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:12:08 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{ec7b5ee VFED..CL. ......ID 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{203769e VFED..CL. ........ 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA AllPhotosFilter Item with position 0 selected for filter com.microsoft.skydrive.photos.s@adff15e and spinner androidx.appcompat.widget.t{17d108b VFED..CL. ......ID 0,0-33,33 #7f0a08dc app:id/spinner_filter}. 
+Sun Jan 16 07:12:08 CST 2022 DATA com.microsoft.skydrive.adapters.PerformanceTracer Loaded all thumbnails in 2681, 2 unknown, 0 local, 5 cached, 0 remote 
+Sun Jan 16 07:12:08 CST 2022 DATA OneDrivePrivacyDelegate (I) ImageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:09 CST 2022 DATA OneDrivePrivacyDelegate (I) ImageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:09 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Sun Jan 16 07:12:09 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Sun Jan 16 07:12:10 CST 2022 DATA OneDrivePrivacyDelegate (I) PhotosPivot/NavigationPageChange RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:10 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:10 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:11 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:11 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:11 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:12 CST 2022 DATA OneDrivePrivacyDelegate (I) BottomNavigationTapped RequiredServiceData null null true 
+Sun Jan 16 07:12:12 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Sun Jan 16 07:12:12 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:12 CST 2022 DATA QuotaUtils isPlanTypeNotNull = true and resulting planType is FREE 
+Sun Jan 16 07:12:12 CST 2022 V [Auth]OneDriveAuthenticator hasFeatures() FEATURE_QUOTA_FORCE_REFRESH 
+Sun Jan 16 07:12:12 CST 2022 DATA OneDrivePrivacyDelegate (I) Action/FolderLoadedWarm RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:12 CST 2022 DATA AllPhotosBrowserFragment Clearing all adapters 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:12 CST 2022 DATA AllPhotosBrowserFragment Clearing cursor 
+Sun Jan 16 07:12:12 CST 2022 DATA AllPhotosBrowserFragment Cleared cursor 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA AllPhotosBrowserFragment Clearing cursor 
+Sun Jan 16 07:12:12 CST 2022 DATA AllPhotosBrowserFragment Cleared cursor 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:12 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:12 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:12 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:12 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasHighestPlan is false 
+Sun Jan 16 07:12:12 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:12 CST 2022 DATA QuotaUtils isPlanTypeNotNull = true and resulting planType is FREE 
+Sun Jan 16 07:12:13 CST 2022 W com.microsoft.onedrivecore.LogWriterInterface Api attribution requested with an empty API name (:0) 
+Sun Jan 16 07:12:13 CST 2022 W com.microsoft.onedrivecore.LogWriterInterface Coverage tracking was not done because no API name was specified (:0) 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.skydrive.c2 Navigating to item 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:15 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:15 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:15 CST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Sun Jan 16 07:12:15 CST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() popBackStack 
+Sun Jan 16 07:12:15 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:15 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Executing work item for  5 ,  2  synchronously. (:0) 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Work item for  5 ,  2  completed. (:0) 
+Sun Jan 16 07:12:15 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Returning a cached result for item:  5 2 (:0) 
+Sun Jan 16 07:12:16 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:16 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:16 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:16 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:16 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:18 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/PageLoadingPerformance RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.skydrive.c2 Navigating to item 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.skydrive.MainActivity resetDetailFragment 
+Sun Jan 16 07:12:18 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:18 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:18 CST 2022 DATA OneDrivePrivacyDelegate (I) Action/InvokeOperation RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:18 CST 2022 DATA com.microsoft.odsp.c0.c All items are deselected 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() LockScreenManager switchMAMIdentityIfNeeded 
+Sun Jan 16 07:12:18 CST 2022 I LockScreenManager [Intune] switchMAMIdentityIfNeeded - null operation; accountType: OneDriveAccount 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.skydrive.o2 [Intune] showIntuneUiIfNeeded() popBackStack 
+Sun Jan 16 07:12:18 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Found the drive  1  to insert the item (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Inserted new placeholder node for  1  with rowId  12 (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Providing refresh task for  "RecycleBin"  isRoot:  false (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Marked:  0  records dirty. (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Issuing page request for GetItems.  resourceId:  "RecycleBin"  offset:  0 (:0) 
+Sun Jan 16 07:12:18 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:18 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Writing metadata for item  12 (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Metadata for item  12  is written in  11 ms :  0  items  fetchFolderOnly:  false vaulttype: 0 (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Deleted:  0  dirty view records (:0) 
+Sun Jan 16 07:12:18 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Sun Jan 16 07:12:18 CST 2022 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:19 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Attributing api call for " "Metadata/ODCGetItemsRecycleBin" " (:0) 
+Sun Jan 16 07:12:19 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:19 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:19 CST 2022 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is false 
+Sun Jan 16 07:12:20 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:20 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:20 CST 2022 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jan 16 07:12:22 CST 2022 DATA MeridianActivity isMeridianEnabled: false, isRampEnabled: true, isSamsungDevice: false, mockSamsungPreInstalled: false 
+Sun Jan 16 07:12:22 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:22 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:22 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/SkydriveAppSettings RequiredServiceData null null true 
+Sun Jan 16 07:12:22 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:22 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:24 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface start to clean offline root id from moved files (:0) 
+Sun Jan 16 07:12:24 CST 2022 I com.microsoft.onedrivecore.LogWriterInterface Items moved out of an offline root:  0 (:0) 
+Sun Jan 16 07:12:28 CST 2022 DATA OneDrivePrivacyDelegate (I) DDVSettings/Launched RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:28 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/DiagnosticDataViewerSettings RequiredServiceData null null true 
+Sun Jan 16 07:12:30 CST 2022 DATA DiagnosticDataViewerFragment Sending preference toggled On 
+Sun Jan 16 07:12:30 CST 2022 DATA OneDrivePrivacyDelegate (I) DDVSettings/SendingEnabled RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:32 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollSyncAdapter Is account sync on: true 
+Sun Jan 16 07:12:32 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - AdditionalFoldersEnabled 
+Sun Jan 16 07:12:32 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338752727 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:12:32 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:32 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:32 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:32 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:12:32 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:32 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:32 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:32 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:12:32 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:32 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:32 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:12:32 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:12:32 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:32 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:32 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:32 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:32 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:32 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:32 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338752727 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:32 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338752727 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.051 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.022 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.229 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.028 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:12:32 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:12:32 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:12:32 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:12:32 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:12:32 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:12:32 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:32 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:12:32 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:12:33 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:12:33 CST 2022 DATA OneDrivePrivacyDelegate (I) DDVSettings/URLUpdated RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:36 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/SkydriveAppSettings RequiredServiceData null null true 
+Sun Jan 16 07:12:36 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:36 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollJob Camera roll job started. 
+Sun Jan 16 07:12:38 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Sun Jan 16 07:12:38 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338758439 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:12:38 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:38 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:12:38 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:38 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:12:38 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:38 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:12:38 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:38 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:12:38 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:38 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:12:38 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:12:38 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:12:38 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:38 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:12:38 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:38 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:38 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:12:38 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:38 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338758439 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:12:38 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338758439 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.085 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.025 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.298 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.018 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:12:38 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:12:38 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:12:38 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:12:38 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:12:38 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:12:38 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:12:38 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:12:38 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:12:39 CST 2022 DATA PrivacySettingsFragment Updating account preferences in Privacy Settings 
+Sun Jan 16 07:12:39 CST 2022 DATA PrivacySettingsFragment Active security account is aee6c3b3f5d61fa4 
+Sun Jan 16 07:12:39 CST 2022 DATA OneDrivePrivacyDelegate (I) PrivacySettingsLaunched RequiredServiceData null null true 
+Sun Jan 16 07:12:39 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/PrivacySettings RequiredServiceData null null true 
+Sun Jan 16 07:12:44 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/SkydriveAppSettings RequiredServiceData null null true 
+Sun Jan 16 07:12:44 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:44 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:47 CST 2022 DATA OneDrivePrivacyDelegate (I) Settings/SettingsWhatsNew RequiredServiceData null null true 
+Sun Jan 16 07:12:47 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/WhatsNewActivity RequiredServiceData null null true 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:47 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:49 CST 2022 DATA OneDrivePrivacyDelegate (I) Page/SkydriveAppSettings RequiredServiceData null null true 
+Sun Jan 16 07:12:49 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:12:49 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:12:51 CST 2022 DATA OneDrivePrivacyDelegate (I) Settings/SettingsPrivacy RequiredServiceData null null true 
+Sun Jan 16 07:12:53 CST 2022 DATA OneDrivePrivacyDelegate (I) AllPhotos/ScrollDepth RequiredServiceData OneDriveAccount aee6c3b3f5d61fa4 true 
+Sun Jan 16 07:12:53 CST 2022 I ActivityNotificationManager Application state=PausingOrClosing 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:12:58 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:13:38 CST 2022 DATA CameraRollJob Camera roll job started. 
+Sun Jan 16 07:13:38 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Sun Jan 16 07:13:38 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338818977 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:13:39 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:13:39 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:13:39 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:13:39 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:13:39 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:13:39 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:13:39 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:13:39 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:13:39 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:13:39 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:13:39 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:13:39 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:13:39 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:13:39 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:13:39 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:13:39 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:13:39 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:13:39 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:13:39 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338818977 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338818977 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.129 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.045 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.733 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.097 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:13:39 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:13:39 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:13:39 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:13:39 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:13:39 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:13:39 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:13:39 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:13:39 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:13:39 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:13:40 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:13:40 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:13:45 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:13:45 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:14:40 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:14:40 CST 2022 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Sun Jan 16 07:14:40 CST 2022 DATA CameraRollSyncAdapter Is account sync on: true 
+Sun Jan 16 07:14:40 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - AdditionalFoldersEnabled 
+Sun Jan 16 07:14:40 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338880785 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:14:40 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:14:40 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:14:40 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:14:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:14:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:14:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:14:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:14:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:14:40 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:14:41 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:14:41 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:14:41 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:14:41 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:14:41 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:14:41 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:14:41 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:14:41 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:14:41 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:14:41 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:14:41 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:14:41 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338880785 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:14:41 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338880785 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.132 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.027 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.552 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.138 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:14:41 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:14:41 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:14:41 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:14:41 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:14:41 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:14:41 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:14:41 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:14:41 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:14:46 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:14:46 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:15:39 CST 2022 DATA CameraRollJob Camera roll job started. 
+Sun Jan 16 07:15:39 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Sun Jan 16 07:15:39 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338939890 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:15:39 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:15:39 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:15:39 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:15:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:15:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:15:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:15:40 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:15:40 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:15:40 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:15:40 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:15:40 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:15:40 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:15:40 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:15:40 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:15:40 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:15:40 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:15:40 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:15:40 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:15:40 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:15:40 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642338939890 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:15:40 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642338939890 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.159 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.043 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.809 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.242 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:15:40 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:15:40 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:15:40 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:15:40 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:15:40 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:15:40 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:15:40 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:15:40 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:15:46 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:15:46 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:18:54 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollSyncAdapter Camera roll sync adapter onPerformSync invoked. 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollSyncAdapter Is account sync on: true 
+Sun Jan 16 07:18:54 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - AdditionalFoldersEnabled 
+Sun Jan 16 07:18:54 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642339134305 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:18:54 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:18:54 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:18:54 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:18:54 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:18:54 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:18:54 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:18:54 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:18:54 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:18:54 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:18:54 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:18:54 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:18:54 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:18:54 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:18:54 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:18:54 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:18:54 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:18:54 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:18:54 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:18:54 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642339134305 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:18:54 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642339134305 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.105 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.022 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.484 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.112 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:18:54 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:18:54 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:18:54 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:18:54 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:18:54 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:18:54 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:18:54 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:18:54 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
+Sun Jan 16 07:19:00 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:19:00 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:19:54 CST 2022 DATA CameraRollJob Camera roll job started. 
+Sun Jan 16 07:19:54 CST 2022 I CameraRollBackupProcessor/AutoUploadService run: trigger reason - SyncJob 
+Sun Jan 16 07:19:55 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642339195013 | startForegroundService: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Starting service in the foreground from onCreate() 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Successfully started service in the foreground onCreate() 
+Sun Jan 16 07:19:55 CST 2022 V AutoUploadService Upload Service Created. 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:19:55 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.START_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService } 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.START_SYNC 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService startSync invoked. 
+Sun Jan 16 07:19:55 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:19:55 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 2 | Enabled buckets number: 2 
+Sun Jan 16 07:19:55 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:19:55 CST 2022 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jan 16 07:19:55 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:19:55 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jan 16 07:19:55 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:19:55 CST 2022 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jan 16 07:19:55 CST 2022 I com.microsoft.skydrive.l6.e refreshMetadata onComplete() 
+Sun Jan 16 07:19:55 CST 2022 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jan 16 07:19:55 CST 2022 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jan 16 07:19:55 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:19:55 CST 2022 E SamsungAuthUtils MigrationState not set in account - Unknown state  
+Sun Jan 16 07:19:55 CST 2022 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Jan 16 07:19:55 CST 2022 DATA QueryBasedCursor Closing cursor with 0 items 
+Sun Jan 16 07:19:55 CST 2022 DATA QueryBasedCursor Cursor closed 
+Sun Jan 16 07:19:55 CST 2022 I ServiceUtils/CameraRollBackupProcessor/AutoUploadService session Id: 1642339195013 | startForegroundService: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Starting service in the foreground from onStartCommand 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Successfully started service in the foreground onStartCommand 
+Sun Jan 16 07:19:55 CST 2022 V AutoUploadService Upload Service onStartCommand, intent = Intent { act=com.microsoft.skydrive.upload.END_SYNC cmp=com.microsoft.skydrive/.upload.AutoUploadService (has extras) } 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Start command with action: com.microsoft.skydrive.upload.END_SYNC 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService endSync invoked with error code: 0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 BACKUP 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 1642339195013 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.118 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          7 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       7 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.031 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         0.686 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.134 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jan 16 07:19:55 CST 2022 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jan 16 07:19:55 CST 2022 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Battery is charging. 
+Sun Jan 16 07:19:55 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Device network status is: WifiConnection 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Network Condition is: Connected 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Current error state is: WaitForPowerSource 
+Sun Jan 16 07:19:55 CST 2022 DATA SyncService resumeService with error: WaitForPowerSource 
+Sun Jan 16 07:19:55 CST 2022 DATA SyncService pauseService-AutoUploadService-pauseServiceSyncService-resumeService | error code: WaitForPowerSource 
+Sun Jan 16 07:19:55 CST 2022 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jan 16 07:19:55 CST 2022 W DetectConnectivityJob Network is already available, no tasks scheduled 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService PauseService with error code: WaitForPowerSource Paused: true 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Stopping service on Paused State to remove notification 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadService Auto upload service is destroyed. 
+Sun Jan 16 07:19:55 CST 2022 DATA AutoUploadNotificationManager SyncService-cancelAllTasks 
+Sun Jan 16 07:19:56 CST 2022 DATA AutoUploadNotificationManager uploadingStatus: Paused 
